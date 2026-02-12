@@ -59,17 +59,10 @@ I’m a full-stack developer who enjoys building practical web applications and 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Himanshuazad03&theme=radical&hide_border=false"
-    width="420"
-  />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshuazad03&theme=radical&layout=compact"
-    width="320"
-  />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=himanshuazad03&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=himanshuazad03&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuazad03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
 
